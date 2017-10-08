@@ -24,4 +24,4 @@ def add(a):
 
 
 def testAdd():
-    assert add(10) == 11
+    assert add(10) == 12

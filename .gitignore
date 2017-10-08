@@ -1,2 +1,4 @@
-20171006223804.zip
+*.zip
 .idea
+.cache/
+__pycache__/
