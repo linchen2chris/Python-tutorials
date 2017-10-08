@@ -17,11 +17,3 @@ if os.system(zip_command) == 0:
     print('Successful backup to %s' % target)
 else:
     print('backup fail')
-
-
-def add(a):
-    return a + 1
-
-
-def testAdd():
-    assert add(10) == 11
